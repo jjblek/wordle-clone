@@ -1,0 +1,38 @@
+{
+  "row1": [
+    {"key": "q"},
+    {"key": "w"}, 
+    {"key": "e"}, 
+    {"key": "r"}, 
+    {"key": "t"}, 
+    {"key": "y"}, 
+    {"key": "u"}, 
+    {"key": "i"}, 
+    {"key": "o"}, 
+    {"key": "p"}
+  ],
+  
+  "row2": [
+    {"key": "a"}, 
+    {"key": "s"}, 
+    {"key": "d"}, 
+    {"key": "f"}, 
+    {"key": "g"}, 
+    {"key": "h"}, 
+    {"key": "j"}, 
+    {"key": "k"}, 
+    {"key": "l"}
+  ],
+
+  "row3": [
+    {"key": "enter"}, 
+    {"key": "z"}, 
+    {"key": "x"}, 
+    {"key": "c"}, 
+    {"key": "v"}, 
+    {"key": "b"}, 
+    {"key": "n"}, 
+    {"key": "m"}, 
+    {"key": "backspace"}
+  ]
+}
