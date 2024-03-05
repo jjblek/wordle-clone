@@ -13,7 +13,7 @@ This project is a simple implementation of the word-guessing game, **Wordle**, b
 
 ## Demo
 
-Check out the **[demo](https://jjblek.github.io/wordle-clone/)**, hosted using GitHub Pages
+Check out the <a href="https://jjblek.github.io/wordle-clone/" target="_blank">demo</a>, hosted using GitHub Pages
 
 ## Features
 
